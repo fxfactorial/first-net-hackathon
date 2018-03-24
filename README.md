@@ -21,4 +21,10 @@
 
 Some libraries to be used: (importable)
 
-requests, json, http
+requests, json, http, flask
+
+# Suggestions
+
+1. use Watson APIs in python to get analsys scores on sentiment of tweets
+
+2. host a flask project on IBM Cloud
